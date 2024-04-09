@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>EmailAssignmentJavaBasedConfig</name>
+	<name>EmailAssignment</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -27,7 +27,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1712656611745</id>
+			<id>1712656611721</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
